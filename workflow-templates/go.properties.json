@@ -1,0 +1,12 @@
+{
+    "name": "Gookit Organization Workflow",
+    "description": "Gookit Organization CI workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "go.mod$",
+        "*.go$"
+    ]
+}
