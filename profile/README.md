@@ -20,9 +20,12 @@
 |  |  |
 |--------|-------|
 [![ReadMe Card][gookit_cache_card]](https://github.com/gookit/cache) | [![ReadMe Card][gookit_event_card]](https://github.com/gookit/event) 
+[![ReadMe Card][gookit_slog_card]](https://github.com/gookit/slog) |  [![ReadMe Card][gookit_ini_card]](https://github.com/gookit/ini) 
 [![ReadMe Card][gookit_filter_card]](https://github.com/gookit/filter) |  [![ReadMe Card][gookit_hreq_card]](https://github.com/gookit/hreq) 
 
 [gookit_cache_card]: https://github-readme-stats.vercel.app/api/pin/?username=gookit&repo=cache
 [gookit_event_card]: https://github-readme-stats.vercel.app/api/pin/?username=gookit&repo=event
+[gookit_slog_card]: https://github-readme-stats.vercel.app/api/pin/?username=gookit&repo=slog
+[gookit_ini_card]: https://github-readme-stats.vercel.app/api/pin/?username=gookit&repo=ini
 [gookit_filter_card]: https://github-readme-stats.vercel.app/api/pin/?username=gookit&repo=filter&show_owner=false
 [gookit_hreq_card]: https://github-readme-stats.vercel.app/api/pin/?username=gookit&repo=hreq
