@@ -8,25 +8,25 @@
 Build your application by Gookit packages.
 
 - Web Application
-  - `gookit/rux` http router, middlewares
-  - gookit/respond http replay 
-  - gookit/view view renderer
+  - [`gookit/rux`](https://github.com/gookit/rux) http router, middlewares
+  - [`gookit/respond`](https://github.com/gookit/respond) http replay 
+  - [`gookit/view`](https://github.com/gookit/view) view renderer
 - CLI Application
-  - `gookit/gcli` console application build
-  - `gookit/color` console color render
+  - [`gookit/gcli`](https://github.com/gookit/gcli) console application build
+  - [`gookit/color`](https://github.com/gookit/color) console color render
 - Common Component
-  - `gookit/event` Event manager
-  - `gookit/validate` Data fitler and validate
-  - `gookit/filter` Data filter
-  - `gookit/goutil` Go utils: int, str, slice, map, struct, CLI, sys, fs, test, debug and more
-  - `gookit/slog` Go logger package.
-  - `gookit/cache` Cache manager
-  - `gookit/i18n` i18n management
-  - `gookit/greq` Http client
+  - [`gookit/event`](https://github.com/gookit/event) Event manager
+  - [`gookit/validate`](https://github.com/gookit/validate) Data fitler and validate
+  - [`gookit/filter`](https://github.com/gookit/filter) Data filter
+  - [`gookit/goutil`](https://github.com/gookit/goutil) Go utils: int, str, slice, map, struct, CLI, sys, fs, test, debug and more
+  - [`gookit/slog`](https://github.com/gookit/slog) Go logger package.
+  - [`gookit/cache`](https://github.com/gookit/cache) Cache manager
+  - [`gookit/i18n`](https://github.com/gookit/i18n) i18n management
+  - [`gookit/greq`](https://github.com/gookit/greq) Http client
 - Config management
-  - `gookit/config` Multi formats, multi files load
-  - `gookit/ini` `INI` format contents parse
-  - `gookit/properties` `Properties` format contents parse
+  - [`gookit/config`](https://github.com/gookit/config) Multi formats, multi files load
+  - [`gookit/ini`](https://github.com/gookit/ini) `INI` format contents parse
+  - [`gookit/properties`](https://github.com/gookit/properties) `Properties` format contents parse
 
 <!--
 
