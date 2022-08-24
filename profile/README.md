@@ -23,6 +23,7 @@ Build your application by Gookit packages.
   - [`gookit/cache`](https://github.com/gookit/cache) Cache manager
   - [`gookit/i18n`](https://github.com/gookit/i18n) i18n management
   - [`gookit/greq`](https://github.com/gookit/greq) Http client
+  - [`gookit/gitw`](https://github.com/gookit/gitw) Git command wrapper
 - Config management
   - [`gookit/config`](https://github.com/gookit/config) Multi formats, multi files load
   - [`gookit/ini`](https://github.com/gookit/ini) `INI` format contents parse
