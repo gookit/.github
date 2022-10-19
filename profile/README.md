@@ -8,9 +8,9 @@
 Build your application by Gookit packages.
 
 - Web Application
-  - [`gookit/rux`](https://github.com/gookit/rux) http router, middlewares
-  - [`gookit/respond`](https://github.com/gookit/respond) http replay 
-  - [`gookit/view`](https://github.com/gookit/view) view renderer
+  - [`gookit/rux`](https://github.com/gookit/rux) ![GitHub Repo stars](https://img.shields.io/github/stars/gookit/rux?style=flat-square) http router, middlewares
+  - [`gookit/respond`](https://github.com/gookit/respond) ![GitHub Repo stars](https://img.shields.io/github/stars/gookit/respond?style=flat-square) http replay 
+  - [`gookit/view`](https://github.com/gookit/view) ![GitHub Repo stars](https://img.shields.io/github/stars/gookit/view?style=flat-square) view renderer
 - CLI Application
   - [`gookit/gcli`](https://github.com/gookit/gcli) console application build
   - [`gookit/color`](https://github.com/gookit/color) console color render
@@ -21,13 +21,13 @@ Build your application by Gookit packages.
   - [`gookit/goutil`](https://github.com/gookit/goutil) Go utils: int, str, slice, map, struct, CLI, sys, fs, test, debug and more
   - [`gookit/slog`](https://github.com/gookit/slog) Go logger package.
   - [`gookit/cache`](https://github.com/gookit/cache) Cache manager
-  - [`gookit/i18n`](https://github.com/gookit/i18n) i18n management
-  - [`gookit/greq`](https://github.com/gookit/greq) Http client
-  - [`gookit/gitw`](https://github.com/gookit/gitw) Git command wrapper
+  - [`gookit/i18n`](https://github.com/gookit/i18n) ![GitHub Repo stars](https://img.shields.io/github/stars/gookit/i18n?style=flat-square) i18n management
+  - [`gookit/greq`](https://github.com/gookit/greq) ![GitHub Repo stars](https://img.shields.io/github/stars/gookit/greq?style=flat-square) Http client
+  - [`gookit/gitw`](https://github.com/gookit/gitw) ![GitHub Repo stars](https://img.shields.io/github/stars/gookit/gitw?style=flat-square) Git command wrapper
 - Config management
   - [`gookit/config`](https://github.com/gookit/config) Multi formats, multi files load
-  - [`gookit/ini`](https://github.com/gookit/ini) `INI` format contents parse
-  - [`gookit/properties`](https://github.com/gookit/properties) `Properties` format contents parse
+  - [`gookit/ini`](https://github.com/gookit/ini) ![GitHub Repo stars](https://img.shields.io/github/stars/gookit/ini?style=flat-square) `INI` format contents parse
+  - [`gookit/properties`](https://github.com/gookit/properties) ![GitHub Repo stars](https://img.shields.io/github/stars/gookit/properties?style=flat-square) `Properties` format contents parse
 
 <!--
 
