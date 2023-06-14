@@ -16,7 +16,7 @@ Build your application by Gookit packages.
   - [`gookit/gcli`](https://github.com/gookit/gcli) ![GitHub Repo stars](https://img.shields.io/github/stars/gookit/gcli?style=flat-square) Go CLI application, tool library, running CLI commands, support console color, user interaction, progress display, data formatting display, generate bash/zsh completion add more features. 
   - [`gookit/color`](https://github.com/gookit/color) ![GitHub Repo stars](https://img.shields.io/github/stars/gookit/color?style=flat-square) 🎨 Terminal color rendering library, support 8/16 colors, 256 colors, RGB color rendering output, support Print/Sprintf methods, compatible with Windows.
 - Common Component
-  - [`gookit/event`](https://github.com/gookit/event) ![GitHub Repo stars](https://img.shields.io/github/stars/gookit/event?style=flat-square) Event manager
+  - [`gookit/event`](https://github.com/gookit/event) ![GitHub Repo stars](https://img.shields.io/github/stars/gookit/event?style=flat-square) Lightweight event manager and dispatcher implements by Go.
   - [`gookit/validate`](https://github.com/gookit/validate) ![GitHub Repo stars](https://img.shields.io/github/stars/gookit/validate?style=flat-square) ⚔ Go package for data validation and filtering. support Map, Struct, Form data. 
   - [`gookit/filter`](https://github.com/gookit/filter) ![GitHub Repo stars](https://img.shields.io/github/stars/gookit/filter?style=flat-square) Data filter
   - [`gookit/goutil`](https://github.com/gookit/goutil) ![GitHub Repo stars](https://img.shields.io/github/stars/gookit/goutil?style=flat-square) 💪 Helper Utils For Go: int, string, array/slice, map, struct, dump, convert/format, error, web/http, cli/flag, OS/ENV, filesystem, system, test/assert, time and more. 
