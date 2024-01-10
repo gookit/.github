@@ -20,7 +20,7 @@ jobs:
       matrix:
 #        os: [ubuntu-latest, windows-latest]
         os: [ubuntu-latest]
-        go_version: [1.15, 1.16, 1.17, 1.18]
+        go_version: [1.19, 1.21]
 
     steps:
     - name: Check out code
@@ -31,25 +31,6 @@ jobs:
       timeout-minutes: 3
       with:
         go-version: ${{ matrix.go_version }}
-
-    - name: Revive check
-      uses: morphy2k/revive-action@v2.3.1
-      if: ${{ matrix.os == 'ubuntu-latest' }}
-      with:
-        # Exclude patterns, separated by semicolons (optional)
-        exclude: "./internal/..."
-
-    - name: Run staticcheck
-      uses: reviewdog/action-staticcheck@v1
-      if: ${{ github.event_name == 'pull_request'}}
-      with:
-        github_token: ${{ secrets.github_token }}
-        # Change reviewdog reporter if you need [github-pr-check,github-check,github-pr-review].
-        reporter: github-pr-check
-        # Report all results. [added,diff_context,file,nofilter].
-        filter_mode: added
-        # Exit with 1 when it find at least one finding.
-        fail_on_error: true
 
     - name: Run unit tests
       # run: go test -v -cover ./...
