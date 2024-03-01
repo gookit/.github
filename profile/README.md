@@ -10,8 +10,8 @@ Build your application by Gookit packages.
 
 - Web Application
   - [`gookit/rux`](https://github.com/gookit/rux) ![GitHub Repo stars](https://img.shields.io/github/stars/gookit/rux?style=flat-square) ⚡ Rux is an simple and fast web framework. support route group, param route binding, middleware, compatible http.Handler interface.
-  - [`gookit/respond`](https://github.com/gookit/respond) ![GitHub Repo stars](https://img.shields.io/github/stars/gookit/respond?style=flat-square) http replay 
-  - [`gookit/view`](https://github.com/gookit/view) ![GitHub Repo stars](https://img.shields.io/github/stars/gookit/view?style=flat-square) view renderer
+  - [`gookit/respond`](https://github.com/gookit/respond) ![GitHub Repo stars](https://img.shields.io/github/stars/gookit/respond?style=flat-square) Quick respond Text, HTML, XML, JSON, JSONP data to http.ResponseWriter
+  - [`gookit/easytpl`](https://github.com/gookit/easytpl) ![GitHub Repo stars](https://img.shields.io/github/stars/gookit/easytpl?style=flat-square) Simple and easy-to-use template renderer, based on Golang html/template package. 
 - CLI Application
   - [`gookit/gcli`](https://github.com/gookit/gcli) ![GitHub Repo stars](https://img.shields.io/github/stars/gookit/gcli?style=flat-square) Go CLI application, tool library, running CLI commands, support console color, user interaction, progress display, data formatting display, generate bash/zsh completion add more features. 
   - [`gookit/color`](https://github.com/gookit/color) ![GitHub Repo stars](https://img.shields.io/github/stars/gookit/color?style=flat-square) 🎨 Terminal color rendering library, support 8/16 colors, 256 colors, RGB color rendering output, support Print/Sprintf methods, compatible with Windows.
