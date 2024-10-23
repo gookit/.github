@@ -9,11 +9,11 @@
 Build your application by Gookit packages.
 
 - **Common Component**
-  - [`gookit/event`](https://github.com/gookit/event) ![GitHub Repo stars](https://img.shields.io/github/stars/gookit/event?style=flat-square) Lightweight event manager and dispatcher implements by Go.
   - [`gookit/validate`](https://github.com/gookit/validate) ![GitHub Repo stars](https://img.shields.io/github/stars/gookit/validate?style=flat-square) ⚔ Go package for data validation and filtering. support Map, Struct, Form data. 
-  - [`gookit/filter`](https://github.com/gookit/filter) ![GitHub Repo stars](https://img.shields.io/github/stars/gookit/filter?style=flat-square) Data filter
   - [`gookit/goutil`](https://github.com/gookit/goutil) ![GitHub Repo stars](https://img.shields.io/github/stars/gookit/goutil?style=flat-square) 💪 Helper Utils For Go: int, string, array/slice, map, struct, dump, convert/format, error, web/http, cli/flag, OS/ENV, filesystem, system, test/assert, time and more. 
+  - [`gookit/event`](https://github.com/gookit/event) ![GitHub Repo stars](https://img.shields.io/github/stars/gookit/event?style=flat-square) Lightweight event manager and dispatcher implements by Go.
   - [`gookit/slog`](https://github.com/gookit/slog) ![GitHub Repo stars](https://img.shields.io/github/stars/gookit/slog?style=flat-square) 📑 Lightweight, configurable, extensible logging library written in Go. Support multi level, multi outputs and built-in multi file logger, buffers, clean, rotate-file handling.
+  - [`gookit/filter`](https://github.com/gookit/filter) ![GitHub Repo stars](https://img.shields.io/github/stars/gookit/filter?style=flat-square) Data filter
   - [`gookit/cache`](https://github.com/gookit/cache) ![GitHub Repo stars](https://img.shields.io/github/stars/gookit/cache?style=flat-square) Cache manager
   - [`gookit/i18n`](https://github.com/gookit/i18n) ![GitHub Repo stars](https://img.shields.io/github/stars/gookit/i18n?style=flat-square) i18n management
   - [`gookit/greq`](https://github.com/gookit/greq) ![GitHub Repo stars](https://img.shields.io/github/stars/gookit/greq?style=flat-square) Http client
