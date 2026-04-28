@@ -25,6 +25,7 @@ Build your application by Gookit packages.
 - **CLI Application**
   - [`gookit/gcli`](https://github.com/gookit/gcli) ![GitHub Repo stars](https://img.shields.io/github/stars/gookit/gcli?style=flat-square) Go CLI application, tool library, running CLI commands, support console color, user interaction, progress display, data formatting display, generate bash/zsh completion add more features. 
   - [`gookit/color`](https://github.com/gookit/color) ![GitHub Repo stars](https://img.shields.io/github/stars/gookit/color?style=flat-square) 🎨 Terminal color rendering library, support 8/16 colors, 256 colors, RGB color rendering output, support Print/Sprintf methods, compatible with Windows.
+  - [`gookit/cliui`](https://github.com/gookit/cliui) ![GitHub Repo stars](https://img.shields.io/github/stars/gookit/cliui?style=flat-square)  Provides some commonly used display and interactive functional components for CLI. 提供一些用于 CLI 下的，常用的显示和交互功能组件
 - **Tool Component**
   - [`gookit/miglite`](https://github.com/gookit/miglite) ![GitHub Repo stars](https://img.shields.io/github/stars/gookit/miglite?style=flat-square) miglite is a simplified database schema migration tool.
   - [`gookit/cache`](https://github.com/gookit/cache) ![GitHub Repo stars](https://img.shields.io/github/stars/gookit/cache?style=flat-square) Cache manager
