@@ -27,11 +27,11 @@ Build your application by Gookit packages.
   - [`gookit/color`](https://github.com/gookit/color) ![GitHub Repo stars](https://img.shields.io/github/stars/gookit/color?style=flat-square) 🎨 Terminal color rendering library, support 8/16 colors, 256 colors, RGB color rendering output, support Print/Sprintf methods, compatible with Windows.
   - [`gookit/cliui`](https://github.com/gookit/cliui) ![GitHub Repo stars](https://img.shields.io/github/stars/gookit/cliui?style=flat-square)  Provides some commonly used display and interactive functional components for CLI. 提供一些用于 CLI 下的，常用的显示和交互功能组件
 - **Tool Component**
-  - [`gookit/miglite`](https://github.com/gookit/miglite) ![GitHub Repo stars](https://img.shields.io/github/stars/gookit/miglite?style=flat-square) miglite is a simplified database schema migration tool.
+  - [`gookit/miglite`](https://github.com/gookit/miglite) ![GitHub Repo stars](https://img.shields.io/github/stars/gookit/miglite?style=flat-square) 🚀 miglite is a lightweight and simplified database schema migration tool. Golang 实现的极简易用的数据库 Schema 迁移工具，无三方DB驱动依赖。
   - [`gookit/cache`](https://github.com/gookit/cache) ![GitHub Repo stars](https://img.shields.io/github/stars/gookit/cache?style=flat-square) Cache manager
-  - [`gookit/i18n`](https://github.com/gookit/i18n) ![GitHub Repo stars](https://img.shields.io/github/stars/gookit/i18n?style=flat-square) i18n management
-  - [`gookit/greq`](https://github.com/gookit/greq) ![GitHub Repo stars](https://img.shields.io/github/stars/gookit/greq?style=flat-square) Http client request library
-  - [`gookit/gitw`](https://github.com/gookit/gitw) ![GitHub Repo stars](https://img.shields.io/github/stars/gookit/gitw?style=flat-square) Git command wrapper
+  - [`gookit/i18n`](https://github.com/gookit/i18n) ![GitHub Repo stars](https://img.shields.io/github/stars/gookit/i18n?style=flat-square) 🏳️An simple i18n messages manage implement, use INI files. 使用INI格式文件，实现的简单方便的语言加载与管理
+  - [`gookit/greq`](https://github.com/gookit/greq) ![GitHub Repo stars](https://img.shields.io/github/stars/gookit/greq?style=flat-square) 🛠 greq is a HTTP client request builder and sender. supports download, retry, batch, .http file and more
+  - [`gookit/gitw`](https://github.com/gookit/gitw) ![GitHub Repo stars](https://img.shields.io/github/stars/gookit/gitw?style=flat-square) 🛠 Git command wrapper, git emojis, generate changelog, get repo, branch, remote information and some git command tools. Git 命令包装器，生成 git 变更记录日志，获取 repo,branch,remote 信息和一些 git 命令工具。
 
 <!--
 
